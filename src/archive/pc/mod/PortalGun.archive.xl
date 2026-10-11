@@ -1,0 +1,17 @@
+# Portal Gun for Cyberpunk 2077 v1.0.0 - fan-made, non-commercial. See README / CREDITS.
+resource:
+  patch:
+    portal\patch\saratoga_main.app:
+      - base\weapons\firearms\smg\militech_saratoga\w_smg__militech_saratoga.app
+    portal\patch\saratoga_rcv1.app:
+      - base\weapons\firearms\smg\militech_saratoga\appearances\w_submachinegun__militech_saratoga__rcv1_01.app
+    portal\patch\saratoga_base1.app:
+      - base\weapons\firearms\smg\militech_saratoga\appearances\w_submachinegun__militech_saratoga__base1_01.app
+    portal\patch\saratoga_mag_std.app:
+      - base\weapons\firearms\smg\militech_saratoga\appearances\w_submachinegun__militech_saratoga__mag_std_01.app
+    portal\patch\saratoga_mag_stdr.app:
+      - base\weapons\firearms\smg\militech_saratoga\appearances\w_submachinegun__militech_saratoga__mag_stdr_01.app
+localization:
+  onscreens:
+    ru-ru: portal\localization\ru-ru.json
+    en-us: portal\localization\en-us.json

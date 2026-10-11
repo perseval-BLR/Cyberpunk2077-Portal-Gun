@@ -1,0 +1,17 @@
+# Portal Gun for Cyberpunk 2077 v1.0.0 - fan-made, non-commercial. See README / CREDITS.
+# The portal gun item: a Militech Saratoga underneath. Its look comes from PortalGun.archive (ArchiveXL resource
+# patches add the appearance "portalgun" to the Saratoga's appearance files; the gun picks it by its visual tag). The
+# Cyber Engine Tweaks part (mods/portalgun) gives the gun and takes over its mouse buttons.
+Items.PortalGun:
+  $base: Items.Preset_Saratoga_Default
+  visualTags: [PortalGun]
+  appearanceName: portalgun
+  displayName: LocKey#portalgun-name
+  localizedDescription: LocKey#portalgun-desc
+  iconPath: portalgun_icon
+  icon: UIIcon.portalgun_icon
+
+UIIcon.portalgun_icon:
+  $type: gamedataUIIcon_Record
+  atlasResourcePath: portal\icon\portalgun_icon.inkatlas
+  atlasPartName: portalgun
