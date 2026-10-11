@@ -10,11 +10,12 @@ This repository holds the source code and configuration; the 3D model and textur
 > **Fan-made, non-commercial.** Not affiliated with or endorsed by Valve or CD PROJEKT RED. See
 > [Disclaimer](#disclaimer) and [CREDITS](CREDITS.md).
 
-![Looking through the orange portal](screenshots/ingame/1_view_through_portal.jpg)
+![Two portals on a wall, each showing the view out of the other](screenshots/ingame/1_portals_see_through.jpg)
 
 | | |
 |---|---|
-| ![Portals on a wall](screenshots/ingame/2_portals_wall.jpg) | ![Portals on the floor](screenshots/ingame/3_portals_floor.jpg) |
+| ![An NPC drops out of a ceiling portal](screenshots/ingame/2_npc_from_ceiling_portal.jpg) | ![Thrown out of a wall portal](screenshots/ingame/3_npc_out_of_wall_portal.jpg) |
+| ![Looking down into a floor portal](screenshots/ingame/4_looking_down_floor_portal.jpg) | ![The portal gun](screenshots/model.jpg) |
 
 ## Features
 - **A new weapon** in your inventory: the portal gun (HD Portalgun Remastered model) with its own icon, name and
